@@ -5,3 +5,4 @@
     <img src="https://github.com/zsp1018/Wushu-Arena-Car/raw/main/photo.png" width="640" alt="点击查看B站演示视频">
   </a>
 </p>
+点击查看视频
